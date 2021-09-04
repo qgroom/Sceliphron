@@ -1,5 +1,6 @@
 { 
   "_comment": "Sample GloBI dataset descriptor. See http://github.com/globalbioticinteractions for more information.",
-  "citation": "Jorrit H. Poelen. 2014. Species associations manually extracted from literature.",
-  "deprecated": false
+  "citation": "Jakovos Demetriou and Quentin Groom 2014. Species associations of Sceliphron manually extracted from literature.",
+  "licence": "CC0",
+  "version": "1.0"
 }
